@@ -1,7 +1,5 @@
 <?php
 
-namespace Scandiweb\Test;
-
 use Magento\Framework\Component\ComponentRegistrar;
 
 ComponentRegistrar::register(
